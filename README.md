@@ -160,15 +160,24 @@
 
 
 
-<h3 align="center">📊 Top Languages</h3>
+<h3 align="center">🧬 Language DNA</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Savith02&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savith02&layout=donut&langs_count=20&theme=transparent&hide_border=true"
+    alt="Language DNA"
+  />
 </p>
+
+
 
 <h3 align="center">📈 GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Savith02&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Savith02&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
 
 ---
 
