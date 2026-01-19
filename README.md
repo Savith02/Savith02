@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Savith Ranaweera</h1>
 <h3 align="center">Undergraduate Student at SLIIT | Frontend Developer 🇱🇰</h3>
 
-<p align="center">
-  <img src="" />
-</p>
 
 <img src="" />
 
