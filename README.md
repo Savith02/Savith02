@@ -1,4 +1,4 @@
-<img src="https://github.com/Savith02/Savith02/blob/main/background.jpg?raw=true" width="100%" />
+<img src="https://github.com/Savith02/Savith02/blob/main/Screenshot 2026-01-20 023010.png?raw=true" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Savith Ranaweera</h1>
 <h3 align="center">Undergraduate Student at SLIIT | Frontend Developer 🇱🇰</h3>
